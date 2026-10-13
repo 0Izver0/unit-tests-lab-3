@@ -1,0 +1,17 @@
+============================= test session starts ==============================
+platform win32 -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0
+rootdir: C:\Users\anzel\Downloads\files\testing-pr3
+plugins: cov-7.1.0
+collected 17 items
+
+tests/test_delivery.py .................                                 [100%]
+
+================================ tests coverage ================================
+_______________ coverage: platform win32, python 3.14.7-final-0 ________________
+
+Name          Stmts   Miss  Cover   Missing
+-------------------------------------------
+delivery.py      16      0   100%
+-------------------------------------------
+TOTAL            16      0   100%
+============================== 17 passed in 0.13s ==============================
